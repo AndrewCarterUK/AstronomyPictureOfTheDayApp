@@ -30,6 +30,7 @@ return [
         'apod_api' => [
             'store_path' => 'public/apod',
             'base_url' => '/apod',
+            'api_key' => 'IYUpaG0sh45myRaKjYhnGfxDDxKZUCg1pMggR8Ex',
         ],
     ],
 ];
